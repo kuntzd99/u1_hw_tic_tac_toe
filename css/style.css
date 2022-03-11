@@ -61,10 +61,10 @@ p {
 
 @media (max-width: 900px) {
   #board {
-    margin-left: 70px;
+    margin-left: 50px;
   }
   button,
   #reset {
-    margin-left: 70px;
+    margin-left: 220px;
   }
 }
